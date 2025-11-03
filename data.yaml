@@ -1,0 +1,7 @@
+
+train: /content/drive/MyDrive/Crop_Weed_Project/dataset_split/train/images
+val: /content/drive/MyDrive/Crop_Weed_Project/dataset_split/valid/images
+test: /content/drive/MyDrive/Crop_Weed_Project/dataset_split/test/images
+
+nc: 2
+names: ['crop', 'weed']
