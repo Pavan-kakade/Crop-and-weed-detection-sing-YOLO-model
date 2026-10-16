@@ -132,7 +132,7 @@ Student	Kakde Pavan Balasaheb
 Roll No.	10
 Dept.	E&TC (TY Diploma)
 College	Bhivarabai Sawant Polytechnic
-Organization	UmiConverge Technology
+Organization	UniConverge Technology
 Duration	Sept 2025 – Nov 2025
 📝 Documents Available
 File	Folder
